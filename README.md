@@ -1,5 +1,9 @@
 # calc-project
 This mini project of calculator contains 3 files
-calc.html (HTML FILE)
-calc.css (STYLING)
-calc.js (JAVASCRIPT)
+
+1) calc.html (HTML FILE)
+
+2) calc.css (STYLING)
+
+3) calc.js (JAVASCRIPT)
+
